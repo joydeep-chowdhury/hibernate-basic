@@ -8,7 +8,7 @@
 	<name>hibernate-basic</name>
 	<description>Hibernate Basic</description>
 	<properties>
-		<java.version>12</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
